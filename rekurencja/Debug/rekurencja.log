@@ -1,0 +1,86 @@
+﻿Build started 2013-04-17 11:15:22.
+     1>Project "C:\Users\ola\Documents\Visual Studio 2012\Projects\Metody-programowania\Metosy programowania\rekurencja\rekurencja.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\rekurencja.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\klasy_k\src\Data.cpp ..\klasy_k\src\Konferencja.cpp ..\klasy_k\src\Organizator.cpp ..\klasy_k\src\Uczestnik.cpp ..\klasy_k\src\main.cpp
+         main.cpp
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\main.cpp(3): warning C4627: '#include <cstdlib>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\main.cpp(4): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\main.cpp(6): warning C4627: '#include "Konferencja.h"': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\main.cpp(7): warning C4627: '#include "Uczestnik.h"': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\main.cpp(8): warning C4627: '#include "Data.h"': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\main.cpp(9): warning C4627: '#include "Organizator.h"': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\main.cpp(10): warning C4627: '#include "Controller.h"': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\main.cpp(11): warning C4627: '#include "menu.h"': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\main.cpp(12): warning C4627: '#include <fstream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\main.cpp(13): warning C4627: '#include <string>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\main.cpp(14): warning C4627: '#include <cstdio>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\main.cpp(15): warning C4627: '#include <sstream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\main.cpp(16): warning C4627: '#include <stdlib.h>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\main.cpp(31): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Uczestnik.cpp
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\uczestnik.cpp(1): warning C4627: '#include "uczestnik.h"': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\uczestnik.cpp(2): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\uczestnik.cpp(3): warning C4627: '#include <cstdio>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\uczestnik.cpp(4): warning C4627: '#include <fstream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\uczestnik.cpp(5): warning C4627: '#include <string>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\uczestnik.cpp(87): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Organizator.cpp
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\organizator.cpp(1): warning C4627: '#include "Organizator.h"': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\organizator.cpp(2): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\organizator.cpp(3): warning C4627: '#include <cstdio>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\organizator.cpp(4): warning C4627: '#include <fstream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\organizator.cpp(5): warning C4627: '#include <string>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\organizator.cpp(91): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Konferencja.cpp
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\konferencja.cpp(1): warning C4627: '#include "Konferencja.h"': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\konferencja.cpp(2): warning C4627: '#include "Data.h"': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\konferencja.cpp(3): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\konferencja.cpp(4): warning C4627: '#include <cstdio>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\konferencja.cpp(5): warning C4627: '#include <fstream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\konferencja.cpp(101): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Data.cpp
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\data.cpp(1): warning C4627: '#include "Data.h"': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\data.cpp(2): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\data.cpp(3): warning C4627: '#include <cstdio>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\data.cpp(4): warning C4627: '#include <fstream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\data.cpp(5): warning C4627: '#include <string>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\ola\documents\visual studio 2012\projects\metody-programowania\metosy programowania\klasy_k\src\data.cpp(61): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Generating Code...
+     1>Done Building Project "C:\Users\ola\Documents\Visual Studio 2012\Projects\Metody-programowania\Metosy programowania\rekurencja\rekurencja.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.15
